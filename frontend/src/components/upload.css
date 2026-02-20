@@ -1,0 +1,35 @@
+/* Upload Card */
+.upload-card {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 14px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+  margin-bottom: 25px;
+}
+
+/* Title */
+.upload-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 15px;
+}
+
+/* File Input Styling */
+.upload-input {
+  display: block;
+  padding: 10px;
+  border: 2px dashed #4f46e5;
+  border-radius: 8px;
+  background-color: #f9fafb;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: 100%;
+  max-width: 300px;
+}
+
+/* Hover Effect */
+.upload-input:hover {
+  background-color: #eef2ff;
+  border-color: #4338ca;
+}

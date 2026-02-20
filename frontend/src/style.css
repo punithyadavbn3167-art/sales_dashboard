@@ -1,0 +1,15 @@
+/* Main Dashboard Container */
+.dashboard-container {
+  padding: 40px;
+  background-color: #f4f6f9;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Main Heading */
+.dashboard-heading {
+  font-size: 32px;
+  font-weight: 700;
+  color: #1f2937;
+  margin-bottom: 30px;
+}
